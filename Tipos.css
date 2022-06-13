@@ -1,0 +1,39 @@
+.CuadradoF{
+
+width: 150px;
+height: 150px;
+background-color: royalblue;
+position: fixed;
+
+
+}
+
+.CuadradoR{
+
+width: 150px;
+height: 150px;
+background-color: peru;
+position: relative;
+
+}
+
+.CuadradoA{
+
+width: 150px;
+height: 150px;
+background-color: purple;
+position: relative;
+
+}
+
+.Circulo{
+
+width: 20px;
+height: 20px;
+background-color: green;
+border-radius: 50%;
+position: absolute;
+bottom: 0;
+right: 0;
+
+}
